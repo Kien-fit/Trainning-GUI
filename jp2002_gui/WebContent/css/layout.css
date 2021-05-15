@@ -1,0 +1,72 @@
+﻿/*Các xử lý định dạng cho layout */
+
+body {
+	background-image: url();
+}
+
+/*========== HEADER ==========*/
+/*==========  ==========*/
+.logo {
+	height: 10vh;
+	background-color: rgba(0,0,0,0.08);
+	box-shadow: 5px 5px 10px rgba(0,0,0,0.02);
+	margin-top: 1vh;
+}
+
+/*==========  ==========*/
+.account {
+	height: 10vh;
+	background-color: rgba(0,0,0,0.03);
+	box-shadow: 5px 5px 10px rgba(0,0,0,0.02);
+	margin-top: 1vh;
+}
+
+.account i{
+	text-align: center;
+	font-size: 8vh;
+	margin: 1vh 0 0 1vw;
+}
+
+.account h6{
+	margin-top: 1vh;
+}
+
+/*==========  ==========*/
+.menu {
+	margin-top: 3vh;
+	height: auto;
+	box-shadow: 5px 5px 10px rgba(0,0,0,0.02);
+}
+
+/*==========  ==========*/
+.view-header {
+	margin-top: 3vh;
+	box-shadow: 5px 5px 10px rgba(0,0,0,0.02);
+}
+
+.view-search {
+	padding: 0.28rem 0;
+    margin-bottom: 1rem;
+    background-color: #e9ecef;
+    border-radius: 0.25rem;
+}
+
+.view-content {
+	height: 60vh;
+	background-color: rgba(0,0,0,0.05);
+	box-shadow: 5px 5px 10px rgba(0,0,0,0.02);
+}
+
+.view-pagination{
+	margin-top: 1rem;
+}
+
+/*========== FOOTER ==========*/
+.footer-left, .footer-right {
+	margin: 1vh 0;
+	height: 15vh;
+	background-color: rgba(0,0,0,0.08);
+	box-shadow: 5px 5px 10px rgba(0,0,0,0.02);
+}
+
+.footer-right {}
