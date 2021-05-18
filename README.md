@@ -1,2 +1,2 @@
 # Trainning-GUI
-Here is the source code of the website.
+Here is the client-side source code.
